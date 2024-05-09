@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="section_category">Pilih kategori buku</string>
+    <string name="section_favorite_menu">Buku Terbaru</string>
+    <string name="section_best_seller_menu">Buku Terlaris</string>
+    <string name="category_all">Buku Kuliah</string>
+    <string name="category_americano">Buku Tukang</string>
+    <string name="category_cappuccino">Buku Catatan</string>
+    <string name="category_espresso">Buku API</string>
+    <string name="category_frappe">Buku Olahraga</string>
+    <string name="category_latte">Buku Bahasa</string>
+    <string name="category_macchiato">Buku Masak</string>
+    <string name="category_mocha">Buku Pintar</string>
+    <string name="category_book_9">Buku Dokter</string>
+    <string name="category_book_10">Buku Pelukis</string>
+</resources>
